@@ -6,7 +6,7 @@ use base qw( Audio::File::Type );
 use Audio::File::Wav::Tag;
 use Audio::File::Wav::AudioProperties;
 
-our $VERSION = '0.01';
+our $VERSION = '0.01a';
 
 =head1 NAME
 
